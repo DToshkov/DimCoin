@@ -1,0 +1,2 @@
+# DimCoin
+Python Dimi Coin 
